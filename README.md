@@ -30,7 +30,7 @@ new Descriptor( "foo", "!enumerable" );
   writable: true,
   configurable: true,
   enumerable: false,
-  value: 'foo'
+  value: "foo"
 }
 
 var data = "";
